@@ -9,13 +9,6 @@ This library has been updated to support NTLM v2. Work in Progress.
 NTLM authentication is used in Microsoft's server products,
 such as MS Exchange Server and IIS.
 
-
-Install
--------
-
-    $ sudo gem install ruby-ntlm
-
-
 References
 ----------
 
