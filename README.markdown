@@ -4,7 +4,7 @@ ruby-ntlm
 =========
 
 ruby-ntlm is NTLM authentication client for Ruby.
-This library has been updated to support NTLM v2. Work in Progress.
+This library is being updated to support NTLM v2. Still a Work in Progress.
 
 NTLM authentication is used in Microsoft's server products,
 such as MS Exchange Server and IIS.
